@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/liangtang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kunkun.space
+  * I am liangtang (https://keybase.io/liangtang) on keybase.
+  * I have a public key with fingerprint 1B42 6CFE 6FCC FB4D E362  5C3C 4EA2 019B 0A16 29B2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101fa1c2bc10c60c3f9b1bbd2c84a3fa69aa9abe4133cca11d52a9078f8a6e978190a",
+            "fingerprint": "1b426cfe6fccfb4de3625c3c4ea2019b0a1629b2",
+            "host": "keybase.io",
+            "key_id": "4ea2019b0a1629b2",
+            "kid": "0101fa1c2bc10c60c3f9b1bbd2c84a3fa69aa9abe4133cca11d52a9078f8a6e978190a",
+            "uid": "e63147e1b31282df3a999b432ff60019",
+            "username": "liangtang"
+        },
+        "service": {
+            "hostname": "kunkun.space",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474265100,
+    "expire_in": 157680000,
+    "prev": "2f9f2ad0f0032c6aa3421b4b2f8be7a4d7126369a919e6e16b1663151dd65e77",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJZaBQxGN71rKWFKipYaMWhUIWlJJnZ7M4WQUWL9UBolSpVlySTbKet
+M9OZ2XrL1gNExfOhIl7VQj3RIioe4MH6or74oFCV1op4gQdVK4q0Zoq++SgkhPz/
+9318/5dk84eHcsNj8w5/6Zs3Xws/uNOaDtX0ZPLWK9Q21iqJ9UoDHzp4o8E9P9lg
+GkpCARBAQSBDlEHAMGCq0Cmk1EAsrhFVEKwTohPKNaiqjBEIjSgiOojFRZxgrsfi
+UAdEiSjCtFLcdVzT8qUspBrCTHAsGBNUM7iKUZSpTOMEAahTQCBGOkWSWGd7AUOa
+o8TjZaYta/KSHLL3D/x/9p0ekuNYhVqMQ6pCFEeGUImu61RTkRAYSAMB0OOuRVZx
+iW40iZXy5VY2RhRZbjYZD5INRvkDaUhbcpV5DpGtiOK4tm8zu1F26nzfSQREf60T
+IFdzmvyjkaSmZcgcJaGZu55pW0oCSiTzzUBUOpSpRiEAEYWvcUyXJ80AEY3hOABB
+1XF5s5REQheIGEAAoCKGCVE1JF+EIhGnPEY0IwYRVmVCOtQ55hBTiGUAUWgYOMpj
+MSWYqsmylQSWNklKSnpmyiJ+2uXKxru3l48IhXNDo0YOC/5XKHdMwd9f17599EAk
+/83cKay8Y8fBM90Td1vn9u+6Uvruco39nN6IdqY9f3rvq4c1H2qfjlhaPFA/Tju0
+p3PWo2eFX8e3X6namZ04p3JrY2R524xUh6uFB28tWsy/n3oivtnF5Gu3mJYt7hoo
+L5pdf35Kj982kOxq2fvYvliyuTA7HpxumbDizab+LUf8/JtdmZ8f95XPntrWF8Ez
+vabSPj/vQHfJqOov9PrrS51kxYWVmcGCbcPm/txgF12nbelL7d0VVZsaVi69tu7k
+j/ffKo61vgxvO+UgsrDi05qcz5lZ/e9ycr+fb+mtrux/MXld7dsieP/o4tCvJfln
+rx3f13tVnHh1T89kJy17OdJZ8BuIQUS2
+=nXqd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/liangtang
+
+==================================================================
